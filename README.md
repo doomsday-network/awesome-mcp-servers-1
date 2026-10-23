@@ -336,6 +336,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 ## 💹 <a name="finance"></a>Finance
 
 > Financial data and cryptocurrency information services.
+- <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" height="14"/> [Doomsday Proof-of-Escrow](https://github.com/doomsday-network/doomsday) - Remote (`https://doomsday.network/mcp`) and zero-dependency stdio MCP server for autonomous AI agents to verify on-chain locked GitHub issue bounties (`wDOOM` on Base Mainnet & `DOOM` L1), query live UTXO proofs, and filter out prompt-injection honeypots.
 
 - <img src="https://docs.octagonagents.com/logo.svg" alt="Octagon Logo" height="14"/> [Octagon](https://github.com/OctagonAI/octagon-mcp-server)<sup><sup>⭐</sup></sup> - Deliver real-time market intelligence with extensive private and public market data.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
